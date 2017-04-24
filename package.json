@@ -1,0 +1,26 @@
+{
+  "name": "@alu0100821390/ull-shape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ULL-ESIT-DSI-1617/ull-shape-alu0100821390.git"
+  },
+  "keywords": [
+    "shape",
+    "area"
+  ],
+  "author": "Kevin Estévez Expósito <alu0100821390@ull.edu.es> (https://alu0100821390.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-DSI-1617/ull-shape-alu0100821390/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-DSI-1617/ull-shape-alu0100821390#readme",
+  "dependencies": {
+    "util": "^0.10.3"
+  }
+}
