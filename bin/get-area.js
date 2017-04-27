@@ -1,4 +1,6 @@
-#!/usr/local/bin/node
+#!/usr/bin/env node
+
+'use strict';
 
 let util = require('util');
 var readline = require('readline');
