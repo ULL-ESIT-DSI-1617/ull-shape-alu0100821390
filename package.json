@@ -1,9 +1,13 @@
 {
   "name": "@alu0100821390/ull-shape",
   "version": "1.0.1",
-  "description": "",
+  "bin": {
+    "get-area": "./bin/get-area.js"
+  },
+  "description": "ull-shape",
   "main": "index.js",
   "scripts": {
+    "doc": "documentation build index.js -f html -o docs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
